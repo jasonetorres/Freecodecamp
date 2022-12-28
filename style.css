@@ -1,4 +1,17 @@
-html, body {
-  height: 100%;
-  width: 100%;
+/* style page for site */
+body {
+  background-image: url("https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg")
+}
+.text {
+  border-style:solid;
+  background-color:whitesmoke;
+  color:black;
+}
+footer {
+  color: whitesmoke;
+}
+input {
+  margin: 50px 50px 50px 50px;
+  background-color:green;
+  border-style:solid;
 }
